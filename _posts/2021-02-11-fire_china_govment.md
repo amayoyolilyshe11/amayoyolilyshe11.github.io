@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "React Hooks 系列之8 custom Hook"
+title:  "fuck china gov fire the shanghai"
 categories: JavaScript
 tags: React hooks
 author: HyG
